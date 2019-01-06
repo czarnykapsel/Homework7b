@@ -5,9 +5,11 @@
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/apllikacja.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/freemarker/TemplateProvider.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/model/FibonacciNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/servlet/FibonacciNumberServlet.java" afterDir="false" />
@@ -15,9 +17,30 @@
       <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/fibonacciList.ftlh" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/footer.ftlh" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/getNumber.ftlh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jboss-web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/bg-bad.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/classes/freemarker/TemplateProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/classes/model/FibonacciNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/classes/servlet/FibonacciNumberServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/fm-templates/badValues.ftlh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/fm-templates/bg-bad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/fm-templates/fibonacciList.ftlh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/fm-templates/footer.ftlh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/fm-templates/getNumber.ftlh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/fm-templates/header.ftlh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/jboss-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/lib/freemarker-2.3.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/lib/slf4j-simple-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/bg-bad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/aplikacja/index.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT/WEB-INF/classes/App.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT/WEB-INF/classes/freemarker/TemplateProvider.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT/WEB-INF/classes/model/FibonacciNumber.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT/WEB-INF/classes/servlet/FibonacciNumberServlet.class" afterDir="false" />
@@ -25,11 +48,14 @@
       <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT/WEB-INF/fm-templates/fibonacciList.ftlh" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT/WEB-INF/fm-templates/getNumber.ftlh" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT/WEB-INF/fm-templates/header.ftlh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT/WEB-INF/jboss-web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT/WEB-INF/lib/freemarker-2.3.28.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT/WEB-INF/lib/slf4j-simple-1.7.25.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT/bg-bad.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/apllikacja-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/App.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/freemarker/TemplateProvider.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/model/FibonacciNumber.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/servlet/FibonacciNumberServlet.class" afterDir="false" />
@@ -47,14 +73,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/servlet/FibonacciNumberServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="785">
-              <caret line="59" column="62" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
+            <state relative-caret-position="45">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -68,7 +103,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/badValues.ftlh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -81,7 +116,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/getNumber.ftlh">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -114,13 +149,13 @@
         <option value="$PROJECT_DIR$/src/main/java/model/FibonacciNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/App.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jboss-web.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/header.ftlh" />
-        <option value="$PROJECT_DIR$/src/main/java/servlet/FibonacciNumberServlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/fibonacciList.ftlh" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/getNumber.ftlh" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/badValues.ftlh" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/servlet/FibonacciNumberServlet.java" />
       </list>
     </option>
   </component>
@@ -147,8 +182,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1787" />
-    <option name="y" value="151" />
+    <option name="x" value="1743" />
+    <option name="y" value="258" />
     <option name="width" value="1318" />
     <option name="height" value="728" />
   </component>
@@ -234,7 +269,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546810219711" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546812993132" />
     <property name="last_opened_file_path" value="$USER_HOME$/jjdd5-zajavka/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -271,15 +306,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546762403871</updated>
-      <workItem from="1546762408154" duration="37651000" />
+      <workItem from="1546762408154" duration="40350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37651000" />
+    <option name="totallyTimeSpent" value="40350000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1787" y="151" width="1318" height="728" extended-state="0" />
+    <frame x="1743" y="258" width="1318" height="728" extended-state="0" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -298,7 +333,7 @@
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.15525876" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.15525876" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -311,7 +346,7 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Bean Validation" order="7" />
-      <window_info anchor="right" id="Maven" order="8" visible="true" weight="0.16902515" />
+      <window_info active="true" anchor="right" id="Maven" order="8" visible="true" weight="0.16902515" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="9" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="10" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="11" weight="0.25" />
@@ -387,13 +422,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/bg-bad.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jboss-web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -409,20 +437,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/FibonacciNumberServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="785">
-          <caret line="59" column="62" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/fm-templates/getNumber.ftlh">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -437,6 +455,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlet/FibonacciNumberServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
